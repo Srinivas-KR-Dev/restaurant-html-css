@@ -1,0 +1,78 @@
+<!doctype html>
+
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="author" content="Srinivas KR" />
+    <meta name="description" content="Store hours for Little Burger Shop" />
+    <title>LBS - Hours</title>
+    <link rel="icon" href="favicon.svg" type="image/svg+xml" />
+    <link rel="stylesheet" href="css/style.css" />
+    <script src="./js/main.js" defer></script>
+  </head>
+
+  <body>
+    <header class="header">
+      <h1 class="header__h1">Little Burger Shop</h1>
+
+      <nav class="header__nav">
+        <ul class="header__ul">
+          <li><a href="index.html">Home</a></li>
+          <li><a href="index.html#menu">Menu</a></li>
+          <li><a href="contact.html">Contact</a></li>
+          <li><a href="about.html">About</a></li>
+        </ul>
+      </nav>
+    </header>
+
+    <section class="hero">
+      <figure>
+        <img
+          src="images/burger_tray_1000x667.jpg"
+          alt="Fresh burger ready to serve"
+          title="We love juicy burgers!"
+          width="1000"
+          height="667"
+        />
+
+        <figcaption class="offscreen">A freshly made burger</figcaption>
+      </figure>
+    </section>
+
+    <hr />
+
+    <main class="main">
+      <article class="main__article">
+        <h2>Hours</h2>
+
+        <p>We are open 7 days a week!</p>
+
+        <dl>
+          <dt>Sunday-Thursday</dt>
+          <dd>
+            <time datetime="11:00">11am</time>-<time datetime="21:00">9pm</time>
+          </dd>
+
+          <dt>Friday-Saturday</dt>
+          <dd>
+            <time datetime="11:00">11am</time>-<time datetime="23:00"
+              >11pm</time
+            >
+          </dd>
+        </dl>
+      </article>
+    </main>
+
+    <footer class="footer">
+      <p>
+        <span class="nowrap"
+          >Copyright &copy; <time class="js-year"></time
+        ></span>
+        <span class="nowrap">Little Burger Shop</span>
+      </p>
+
+      <p class="footer__p"><a href="#" class="footer__a">Back to Top</a></p>
+    </footer>
+  </body>
+</html>
