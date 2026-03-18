@@ -2,15 +2,16 @@
 
 Little Burger Shop is my first project created after learning HTML and CSS.
 
-This is a simple multi-page restaurant website built using vanilla HTML, vanilla CSS, and very minimal JavaScript.
+This is a responsive multi-page restaurant website built using vanilla HTML, CSS, and minimal JavaScript.
 
-## Project Highlights
+## What This Project Demonstrates
 
-- Built with semantic HTML
-- Styled with vanilla CSS
-- Uses BEM naming convention for class names
-- Includes very minimal JavaScript for the dynamic footer year
-- Organized as a beginner-friendly multi-page project
+- Writing semantic HTML structure
+- Organizing a multi-page website
+- Styling layouts with CSS
+- Using the BEM methodology for class naming
+- Basic DOM manipulation with JavaScript
+- Responsive design fundamentals
 
 ## Pages
 
@@ -63,7 +64,7 @@ All page screenshots are available in the [screenshots](screenshots) folder.
 
 ## Run Locally
 
-Open index.html in your browser.
+Clone the repository and open `index.html` in your browser.
 
 ## Author
 
