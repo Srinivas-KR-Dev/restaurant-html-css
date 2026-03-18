@@ -31,19 +31,19 @@ All page screenshots are available in the [screenshots](screenshots) folder.
 
 ### Desktop - Home Page
 
-![Home Page](screenshots/home.png)
+![Home Page](screenshots/light/home.png)
 
 ### Desktop - About Page
 
-![About Page](screenshots/about.png)
+![About Page](screenshots/light/about.png)
 
 ### Desktop - Hours Page
 
-![Hours Page](screenshots/hours.png)
+![Hours Page](screenshots/light/hours.png)
 
 ### Desktop - Contact Page
 
-![Contact Page](screenshots/contact.png)
+![Contact Page](screenshots/light/contact.png)
 
 ### Dark Mode - Home Page
 
